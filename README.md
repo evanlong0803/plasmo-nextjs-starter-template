@@ -1,8 +1,5 @@
 # plasmo-nextjs-starter-template
 
-![License](https://img.shields.io/github/license/evanlong0803/plasmo-nextjs-starter-template)
-![Version](https://img.shields.io/github/v/release/evanlong0803/plasmo-nextjs-starter-template)
-
 ## Introduction
 
 This is a starter that combines [Plasmo](https://www.plasmo.com) and [Next.js](https://nextjs.org). The advantages of [Plasmo](https://www.plasmo.com) make it seamlessly compatible with [Next.js](https://nextjs.org), helping you develop browser plug-ins faster and better.
@@ -40,10 +37,6 @@ To set up the development environment:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=evanlong0803/plasmo-nextjs-starter-template&type=Date)](https://star-history.com/#evanlong0803/plasmo-nextjs-starter-template&Date)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
