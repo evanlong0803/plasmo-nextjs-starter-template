@@ -37,13 +37,13 @@ To set up the development environment:
 6. Rename the `example.keys.json` file to `keys.json` and fill in the corresponding fields.
 7. Make your changes and refresh the extension in Chrome to see the updates.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=evanlong0803/plasmo-nextjs-starter-template&type=Date)](https://star-history.com/#evanlong0803/plasmo-nextjs-starter-template&Date)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or questions, feel free to open an issue or contact [mail@evanlong.me](mailto:mail@evanlong.me).
 
 ## Acknowledgements
 
