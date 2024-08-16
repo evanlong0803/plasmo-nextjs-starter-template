@@ -1,7 +1,7 @@
 {
   "name": "plasmo-nextjs-starter-template",
   "displayName": "Plasmo Nextjs Starter Template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A starter template for building a Next.js app with Plasmo",
   "author": "Evan Long. <mail@evanlong.me>",
   "scripts": {
