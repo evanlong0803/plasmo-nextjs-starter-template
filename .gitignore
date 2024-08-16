@@ -25,7 +25,7 @@ yarn-error.log*
 out/
 build/
 dist/
-.next
+.next/
 
 # plasmo
 .plasmo
