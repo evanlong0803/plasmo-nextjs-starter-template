@@ -2,7 +2,7 @@
   "name": "plasmo-nextjs-starter-template",
   "displayName": "Plasmo Nextjs Starter Template",
   "version": "1.0.0",
-  "description": "A starter template for building a Plasmo browser plugin with Next.js.",
+  "description": "A starter template for building a Plasmo browser extension with Next.js.",
   "author": "Evan Long. <mail@evanlong.me>",
   "scripts": {
     "start": "next start",
